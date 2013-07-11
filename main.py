@@ -1,4 +1,4 @@
 class Skuska:
     def func():
-        re
+        return 2
 
